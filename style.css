@@ -1,0 +1,106 @@
+/* ninja quiz */
+
+
+
+
+/* form style
+body{
+    background-color: #eee;
+}
+form{
+    max-width:300px;
+    margin:40px auto;
+    background:white;
+    padding:10px;
+}
+input{
+    display:block;
+    margin:10px auto;
+    padding:4px;
+}
+.success{
+    border:2px solid blue;
+}
+
+.error{
+    border:2px solid yellow;
+} */
+
+/* popup style */
+
+/* button{
+   display:block;
+   margin:20px auto;
+   background:crimson ;
+   color: rgb(161, 161, 161);
+   border:0;
+   padding: 6px 10px;
+
+   cursor:pointer;
+   }
+.popup-wrapper{
+    background:lightgray;
+    position:fixed;
+    top:0;
+    left: 0;
+    width:100%;
+    height:100%;
+    display:none;
+}
+.popup{
+    font-family:arial;
+    text-align: center;
+    width:100%;
+
+    max-width:300px;
+    margin:10% auto;
+
+    padding:20px;
+    background-color: white;
+    position:relative;
+
+}
+.popup a{
+    background-color: crimson;
+    color: white;
+    text-decoration: none;
+    padding:6px 10px;
+}
+.popup-close{
+    position:absolute;
+    top:5px;
+    right:8px;
+   cursor:pointer;
+} */
+
+
+
+
+
+
+
+
+
+/* .box{
+height:200px;
+width:200px;
+background-color:cornsilk;
+padding:20px;
+text-align: center;
+} */
+
+/* li{
+    list-style-type:none;
+    background-color:bisque;
+    margin:10px;
+    padding:10px;
+} */
+/* 
+.success{
+    color:green;
+    border:1px solid green;
+}
+.error{
+    color:red;
+    border:1px solid red;
+} */
